@@ -1,0 +1,1 @@
+git ile hansi branche atacayiqsa onu git push origin ve adini yaziriq burda master ve main ve ya elavesi ola bler

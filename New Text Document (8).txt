@@ -1,0 +1,1 @@
+git remote add origin ve ssh key yazanda nese bas verir

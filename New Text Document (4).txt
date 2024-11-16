@@ -1,0 +1,1 @@
+git commit ancaq -a -m ile yazila biler a all demekdir m ise message

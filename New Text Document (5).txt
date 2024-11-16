@@ -1,0 +1,1 @@
+git push origin master da everything up to date gelirse demeli burda hec bir deyisiklik olmayib eger olubsa demeli git add ve commit edilmeyib buna gore de push process yarimciq qalir

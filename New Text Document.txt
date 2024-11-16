@@ -1,0 +1,1 @@
+ilk detay gite direkt fayl atib sonra orda yazib duzelis etmek olur gitin mentiqi tam olaraq nedir?burda gite girib direkt fayllari yuklemek olar hetta evveller men basqasiin web site larini ele html css js kimi gotururdum hemin readme de note olurdu git de instagram kimidi amma iki cur post atmaq olur sekili yuklemek ucun elave seyler istifade edirmis kimi git de kod yaziriq
